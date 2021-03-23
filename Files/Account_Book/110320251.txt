@@ -1,0 +1,4 @@
+Date & Time                      Amount Deposited        Amount Withdrawn        Total Amount
+Mon Mar 15 17:28:24 2021               10000.00                   0.00               10000.00
+Mon Mar 15 17:29:04 2021               4500.00                   0.00               14500.00
+Mon Mar 15 17:29:32 2021               0.00                   10000.00               4500.00
